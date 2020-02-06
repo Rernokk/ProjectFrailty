@@ -6,6 +6,8 @@ public class EntityBase : MonoBehaviour
 {
 	[SerializeField]
 	private float currentHealth, maxHealth;
+	protected string healthbarAsset = "";
+	protected GameObject healthBarInstance;
 
 	#region Properties
 	public float CurrentHealth
@@ -19,6 +21,10 @@ public class EntityBase : MonoBehaviour
 				Die();
 			}
 			currentHealth = Mathf.Clamp(currentHealth, 0, MaxHealth);
+			if (healthBarInstance != null)
+			{
+				healthBarInstance.GetComponent<HealthbarController>().UpdateHealthValue(currentHealth / MaxHealth);
+			}
 		}
 	}
 	public float MaxHealth { get => maxHealth; set => maxHealth = value; }
@@ -29,9 +35,10 @@ public class EntityBase : MonoBehaviour
 	{
 		Destroy(gameObject);
 	}
-	protected void Start()
+	protected virtual void Start()
 	{
 		CurrentHealth = MaxHealth;
+		healthBarInstance = Instantiate(Resources.Load<GameObject>(Constants.ResourceDirectories.EnemyLocation + healthbarAsset), transform, false);
 	}
 	#endregion Protected Methods
 

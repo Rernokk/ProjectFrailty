@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class SimpleBulletProjectile : MonoBehaviour
 {
+
+	[SerializeField]
+	private GameObject deathFX;
+
 	private float dmgAmount;
 
 	public float DmgAmount { get => dmgAmount; set => dmgAmount = value; }
@@ -15,6 +19,7 @@ public class SimpleBulletProjectile : MonoBehaviour
 		{
 			other.TakeDamage(dmgAmount);
 		}
+		Instantiate(deathFX, transform.position, Quaternion.identity);
 		Destroy(gameObject);
 	}
 }

@@ -22,6 +22,7 @@ namespace Constants
 	{
 		public const string
 			ProjectileLocation = "Player/Projectiles/",
+			EnemyLocation = "Enemy/",
 			MaskPairCSV = "Develop/MaskPairs";
 	}
 
