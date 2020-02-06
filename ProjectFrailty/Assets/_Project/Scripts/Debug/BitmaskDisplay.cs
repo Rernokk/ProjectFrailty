@@ -6,6 +6,8 @@ public class BitmaskDisplay : MonoBehaviour
 {
 	[SerializeField]
 	private int bitValue = 0, spriteIndex = 0;
+
+	public static Dictionary<int, int> spriteIndexer = new Dictionary<int, int>();
 	
 	public int BitValue
 	{
@@ -19,6 +21,12 @@ public class BitmaskDisplay : MonoBehaviour
 			bitValue = value;
 			transform.name = bitValue.ToString();
 			spriteIndex = GenerateBaseMap.MaskValuePairs[BitValue];
+
+			if (!spriteIndexer.ContainsKey(spriteIndex))
+			{
+				spriteIndexer.Add(spriteIndex, 0);
+			}
+			spriteIndexer[spriteIndex]++;
 		}
 	}
 

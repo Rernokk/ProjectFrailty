@@ -1,0 +1,1351 @@
+fileFormatVersion: 2
+guid: ef2ec792425e58247898f64be1928b7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4946469223413841016
+    second: Grassland_Texture_0
+  - first:
+      213: -5190753372790170598
+    second: Grassland_Texture_1
+  - first:
+      213: 5253175950222876985
+    second: Grassland_Texture_2
+  - first:
+      213: -931267134936714832
+    second: Grassland_Texture_3
+  - first:
+      213: -2102316652474097912
+    second: Grassland_Texture_4
+  - first:
+      213: -2967278859849589376
+    second: Grassland_Texture_5
+  - first:
+      213: -6412755322571527447
+    second: Grassland_Texture_6
+  - first:
+      213: -8888407512749648814
+    second: Grassland_Texture_7
+  - first:
+      213: 6567316849934650887
+    second: Grassland_Texture_8
+  - first:
+      213: 2079856388960011993
+    second: Grassland_Texture_9
+  - first:
+      213: -7233333452661085828
+    second: Grassland_Texture_10
+  - first:
+      213: 479306659418645691
+    second: Grassland_Texture_11
+  - first:
+      213: 3879305693619319977
+    second: Grassland_Texture_12
+  - first:
+      213: -9044803639316645420
+    second: Grassland_Texture_13
+  - first:
+      213: 3969944614719524214
+    second: Grassland_Texture_14
+  - first:
+      213: 4981134487609967168
+    second: Grassland_Texture_15
+  - first:
+      213: 6725142451941152117
+    second: Grassland_Texture_16
+  - first:
+      213: 4550870281007406396
+    second: Grassland_Texture_17
+  - first:
+      213: -2282469634864637894
+    second: Grassland_Texture_18
+  - first:
+      213: -3347570666527883242
+    second: Grassland_Texture_19
+  - first:
+      213: 4112582495723566799
+    second: Grassland_Texture_20
+  - first:
+      213: -8301449502067062122
+    second: Grassland_Texture_21
+  - first:
+      213: 7688798152350542486
+    second: Grassland_Texture_22
+  - first:
+      213: 6335076795031706242
+    second: Grassland_Texture_23
+  - first:
+      213: 6617762145296704005
+    second: Grassland_Texture_24
+  - first:
+      213: 764200742237253914
+    second: Grassland_Texture_25
+  - first:
+      213: 7872670744368706632
+    second: Grassland_Texture_26
+  - first:
+      213: 7822990082120978932
+    second: Grassland_Texture_27
+  - first:
+      213: -2515038574222178529
+    second: Grassland_Texture_28
+  - first:
+      213: -8375500344241590020
+    second: Grassland_Texture_29
+  - first:
+      213: 3284239366805011423
+    second: Grassland_Texture_30
+  - first:
+      213: 2222248967958672804
+    second: Grassland_Texture_31
+  - first:
+      213: 2741728091602593573
+    second: Grassland_Texture_32
+  - first:
+      213: 1982398601897720431
+    second: Grassland_Texture_33
+  - first:
+      213: 9002469439088854879
+    second: Grassland_Texture_34
+  - first:
+      213: 7472203930933890203
+    second: Grassland_Texture_35
+  - first:
+      213: -3949618288241959260
+    second: Grassland_Texture_36
+  - first:
+      213: -7739795497619128345
+    second: Grassland_Texture_37
+  - first:
+      213: 6254219935204600958
+    second: Grassland_Texture_38
+  - first:
+      213: 1144530228673427334
+    second: Grassland_Texture_39
+  - first:
+      213: -6604698104944186832
+    second: Grassland_Texture_40
+  - first:
+      213: -8858222088899239321
+    second: Grassland_Texture_41
+  - first:
+      213: -586646226185425425
+    second: Grassland_Texture_42
+  - first:
+      213: 4000483762457736955
+    second: Grassland_Texture_43
+  - first:
+      213: 4212306317928631743
+    second: Grassland_Texture_44
+  - first:
+      213: 902333187106590360
+    second: Grassland_Texture_45
+  - first:
+      213: 4942216975520359627
+    second: Grassland_Texture_46
+  - first:
+      213: 4551220114803651755
+    second: Grassland_Texture_47
+  - first:
+      213: -8523223101920811532
+    second: Grassland_Texture_48
+  - first:
+      213: -1915654909356013436
+    second: Grassland_Texture_49
+  - first:
+      213: 6923423877284920709
+    second: Grassland_Texture_50
+  - first:
+      213: -8882319500872957391
+    second: Grassland_Texture_51
+  - first:
+      213: 6425123317741609364
+    second: Grassland_Texture_52
+  - first:
+      213: -1591492581413680495
+    second: Grassland_Texture_53
+  - first:
+      213: 1235099540034967977
+    second: Grassland_Texture_54
+  - first:
+      213: -1952491413643299451
+    second: Grassland_Texture_55
+  - first:
+      213: 708298759662610914
+    second: Grassland_Texture_56
+  - first:
+      213: 4323643521230461850
+    second: Grassland_Texture_57
+  - first:
+      213: -3200547687664187640
+    second: Grassland_Texture_58
+  - first:
+      213: 8371533181177098412
+    second: Grassland_Texture_59
+  - first:
+      213: -8107406364749274660
+    second: Grassland_Texture_60
+  - first:
+      213: 6615598976198265171
+    second: Grassland_Texture_61
+  - first:
+      213: -2126362212001248099
+    second: Grassland_Texture_62
+  - first:
+      213: 3331860153265947390
+    second: Grassland_Texture_63
+  - first:
+      213: 3398211870829555570
+    second: Grassland_Texture_64
+  - first:
+      213: -1847481870959102167
+    second: Grassland_Texture_65
+  - first:
+      213: 7294170995283466931
+    second: Grassland_Texture_66
+  - first:
+      213: -8692499077435864208
+    second: Grassland_Texture_67
+  - first:
+      213: -152737994475086357
+    second: Grassland_Texture_68
+  - first:
+      213: -2483262570265328277
+    second: Grassland_Texture_69
+  - first:
+      213: 8971099321456957540
+    second: Grassland_Texture_70
+  - first:
+      213: 3201805862483989677
+    second: Grassland_Texture_71
+  - first:
+      213: 5828668240034350897
+    second: Grassland_Texture_72
+  - first:
+      213: 608910805337450711
+    second: Grassland_Texture_73
+  - first:
+      213: 2051190469689948120
+    second: Grassland_Texture_74
+  - first:
+      213: -7479810201232603503
+    second: Grassland_Texture_75
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grassland_Texture_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25496614df115843908c4146d93a0ac
+      internalID: 4946469223413841016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466a3eda7881cd94ca129fa1673a1a1f
+      internalID: -5190753372790170598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de566736eed1f1845aa61fb4c789c894
+      internalID: 5253175950222876985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b37b137d500684f92809b46dd1868a
+      internalID: -931267134936714832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e282862d1b2b79c4b99d539d2d4c7ca1
+      internalID: -2102316652474097912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c15593b3ab72042b8a8dd18a38a00a
+      internalID: -2967278859849589376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 496
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6313874bb886948b41ed6808fbb3e7
+      internalID: -6412755322571527447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 496
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc50c66e56c15c44b432a02dcf4622a
+      internalID: -8888407512749648814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2133e4b0afd1f1945abf29acb89be2d0
+      internalID: 6567316849934650887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e688f513a85b54bb3f11dad0bff628
+      internalID: 2079856388960011993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ec1c6e3177e7a478040a4f5dd9f0ea
+      internalID: -7233333452661085828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4515821288c93ba4ca428a0ceb390698
+      internalID: 479306659418645691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acce2c77584b05a42b5f6f2272a38c52
+      internalID: 3879305693619319977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89772ab727bc2a04c95eda8b903b61e2
+      internalID: -9044803639316645420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabfc3936df022a4ea5ca8dab2c35b26
+      internalID: 3969944614719524214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d1318447bf8f64caae8d20c92895e9
+      internalID: 4981134487609967168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5e48543d6439d4ca98f01dfc7d505c
+      internalID: 6725142451941152117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72d932d777891345b21d3f626466fe7
+      internalID: 4550870281007406396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6538cb0b67777b48ba8411098a80335
+      internalID: -2282469634864637894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a54297f3310b043ae0dc7da5c9f309
+      internalID: -3347570666527883242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215554ba667bfa148bf4cac6fd445549
+      internalID: 4112582495723566799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a2749269468da478f7115ccb3a591c
+      internalID: -8301449502067062122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66fd49aacca53e47a1dccd989c599f1
+      internalID: 7688798152350542486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b2ac09815777a49a2bae58c73841d7
+      internalID: 6335076795031706242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b3598c6eb6b8c4fb063650411d2cb0
+      internalID: 6617762145296704005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cff2d20ece14241b65f36fbf874649
+      internalID: 764200742237253914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092bd033104601046a205cd305904949
+      internalID: 7872670744368706632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a6be82588b1b24cbfff93b68037a40
+      internalID: 7822990082120978932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf79fdcc9ada164aab5958ebdb1d80c
+      internalID: -2515038574222178529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483a27f41a6bf7d43a686b5f6b5fe3db
+      internalID: -8375500344241590020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a39857e5a71edb489863d4c01aec74e
+      internalID: 3284239366805011423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587fbea537970e948af3ebb04f261e6b
+      internalID: 2222248967958672804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3bb89953afd8147945143ccd89f9fe
+      internalID: 2741728091602593573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7998968c7a482e47a0518c3e2054906
+      internalID: 1982398601897720431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a95c9681e1d59b40aadc5ee29707578
+      internalID: 9002469439088854879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57e0874e6b4f284e9550f0cdacb0bbf
+      internalID: 7472203930933890203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf841e19618df4eb795f9cbbc3605a
+      internalID: -3949618288241959260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35e73da04af31c45abc849bee6dc22f
+      internalID: -7739795497619128345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5af7ce994ae8ac478ab3ebd9d9d7ab7
+      internalID: 6254219935204600958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abef30f6919bc74aaaf9fa0251b846f
+      internalID: 1144530228673427334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8134785f0791bd248b50c13b13c7e3d5
+      internalID: -6604698104944186832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297a46d7da545724d825fa91e697629d
+      internalID: -8858222088899239321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a07e90aacec2e469692751da7e3bd5
+      internalID: -586646226185425425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f7bfef199cd6b48bc804b31d722002
+      internalID: 4000483762457736955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bc82331168ab443b7b10acb38cd8ba
+      internalID: 4212306317928631743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a4f830a2124054b9a4423693d3a031
+      internalID: 902333187106590360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c0d46487491f04c8e75212f653a863
+      internalID: 4942216975520359627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grassland_Texture_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbc66083c04e31479b883a321719e7e
+      internalID: 4551220114803651755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
